@@ -1,7 +1,7 @@
 ## Hi there 👋
 🌟 ABOUT ME 
 
-I consider myself a creative and curious individual who belives that inovantion can change lives! Nowdays i´m focus to improve my techninal skills in software development. I also have a strong interest in Design UX/UI, which help me keep my mine open for new possibilities. 
+I consider myself a creative and curious individual who belives that inovantion can change lives! Nowdays i´m focus to improve my techninal skills in software development. I enjoy programming in  Frontend and Backend and I also have a strong interest in Design UX/UI, which help me keep my mine open for new possibilities. 
 
 🛠️ TECHNINAL SKILLS
 
