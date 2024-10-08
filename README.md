@@ -21,7 +21,7 @@ I consider myself a creative and curious individual who belives that inovantion 
 
 🚀  PROJECTS 
 
--> Aplication about countres - https://github.com/jucduarte30/Aplica-oWebPaises
+-> Aplication about countries - https://github.com/jucduarte30/Aplica-oWebPaises
 
 📫 CONTACTS 
 
