@@ -16,6 +16,7 @@ I'm a Computer Engineering graduate, currently pursuing a Master's in Human–Co
 
 - **[Navegante — UX Research & Redesign](https://github.com/jucduarte30)** — Field research and interactive Figma prototype for Lisbon's public transit app, from user pain points to a full redesigned flow.
 - **[Wizarding World App](https://github.com/jucduarte30)** — Android app (Kotlin) combining geolocation and motion sensors for an immersive, gamified exploration experience.
+- **Cloud Computing — Microservices Deployment — Immigration-focused platform with country information and a community forum for sharing experiences and tips about places to live. Built with a microservices architecture, containerized with Docker and deployed on Kubernetes.
 - **[Countries App](https://github.com/jucduarte30/Aplica-oWebPaises)** — Web application for exploring country data.
 
 📁 Full case studies with process and outcomes: **https://github.com/jucduarte30/juliana-portfolio**
