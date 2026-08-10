@@ -1,38 +1,25 @@
-## Hi there 👋
-🌟 ABOUT ME 
+# Hi there 👋
 
-I consider myself a creative and curious individual who belives that inovantion can change lives! Nowdays i´m focus to improve my techninal skills in software development. I enjoy programming in  Frontend and Backend and I also have a strong interest in Design UX/UI, which help me keep my mine open for new possibilities. 
+## 🌟 About me
 
-🛠️ TECHNINAL SKILLS
+I'm a Computer Engineering graduate, currently pursuing a Master's in Human–Computer Interaction (HCI) and Software Development. I believe innovation can change lives, and I'm focused on sharpening my technical skills in software development while combining them with a strong interest in UX/UI design — a mix that keeps me open to building things from both the engineering and the user's side.
 
--> Java 
+## 🛠️ Technical skills
 
--> C
+- **Languages:** Java, JavaScript, TypeScript, C, Python, Kotlin, Haskell, SQL
+- **Frontend:** HTML, CSS, Angular, React (working knowledge)
+- **Backend:** Spring Boot, Node.js, REST APIs
+- **Design & UX:** Figma, UX Research, Interaction Design
+- **Other:** Docker, Git, Kubernetes, GCP
 
--> JavaScrpit / HTML / CSS
+## 🚀 Featured projects
 
--> Python
+- **[Navegante — UX Research & Redesign](https://github.com/jucduarte30)** — Field research and interactive Figma prototype for Lisbon's public transit app, from user pain points to a full redesigned flow.
+- **[Wizarding World App](https://github.com/jucduarte30)** — Android app (Kotlin) combining geolocation and motion sensors for an immersive, gamified exploration experience.
+- **[Countries App](https://github.com/jucduarte30/Aplica-oWebPaises)** — Web application for exploring country data.
 
--> Haskell 
+📁 Full case studies with process and outcomes: **[portfolio link here]**
 
-🚀  PROJECTS 
+## 📬 Contact
 
--> Aplication about countries - https://github.com/jucduarte30/Aplica-oWebPaises
-
-📫 CONTACTS 
-
--> Linkedin: www.linkedin.com/in/juliana-cunha-duarte
-<!--
-**jucduarte30/jucduarte30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [linkedin.com/in/juliana-cunha-duarte](https://www.linkedin.com/in/juliana-cunha-duarte-76598128b)
