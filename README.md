@@ -18,7 +18,7 @@ I'm a Computer Engineering graduate, currently pursuing a Master's in Human–Co
 - **[Wizarding World App](https://github.com/jucduarte30)** — Android app (Kotlin) combining geolocation and motion sensors for an immersive, gamified exploration experience.
 - **[Countries App](https://github.com/jucduarte30/Aplica-oWebPaises)** — Web application for exploring country data.
 
-📁 Full case studies with process and outcomes: **[portfolio link here]**
+📁 Full case studies with process and outcomes: **https://github.com/jucduarte30/juliana-portfolio**
 
 ## 📬 Contact
 
