@@ -6,8 +6,8 @@ I'm a Computer Engineering graduate, currently pursuing a Master's in Human–Co
 
 ## 🛠️ Technical skills
 
-- **Languages:** Java, JavaScript, TypeScript, C, Python, Kotlin, Haskell, SQL
-- **Frontend:** HTML, CSS, Angular, React (working knowledge)
+- **Languages:** Java, JavaScript, TypeScript, C, Python, Kotlin, SQL
+- **Frontend:** HTML, CSS, Angular 
 - **Backend:** Spring Boot, Node.js, REST APIs
 - **Design & UX:** Figma, UX Research, Interaction Design
 - **Other:** Docker, Git, Kubernetes, GCP
