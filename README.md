@@ -19,7 +19,7 @@ I'm a Computer Engineering graduate, currently pursuing a Master's in Human–Co
 - **[Cloud Computing](https://github.com/jucduarte30).** — Microservices Deployment — Immigration-focused platform with country information and a community forum for sharing experiences and tips about places to live. Built with a microservices architecture, containerized with Docker and deployed on Kubernetes.
 - **[Countries App](https://github.com/jucduarte30/Aplica-oWebPaises)** — Web application for exploring country data.
 
-📁 Full case studies with process and outcomes: **https://github.com/jucduarte30/juliana-portfolio**
+📁 Full case studies with process and outcomes: **https://jucduarte30.github.io/juliana-portfolio/**
 
 ## 📬 Contact
 
